@@ -610,6 +610,7 @@ PRODUCT_COPY_FILES += \
     vendor/ark/benefit_m7/proprietary/system/lib64/libslfpjni.so:system/lib64/libslfpjni.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libslos.so:system/lib64/libslos.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libslversion.a:system/lib64/libslversion.a \
+    vendor/ark/benefit_m7/proprietary/system/lib/libgybeauty.so:system/lib/libgybeauty.so \
     vendor/ark/benefit_m7/proprietary/system/bin/aosinfo:system/bin/aosinfo \
     vendor/ark/benefit_m7/proprietary/system/lib64/libsysparm.so:system/lib64/libsysparm.so \
     vendor/ark/benefit_m7/proprietary/system/etc/silead/log_cfg.xml:system/etc/silead/log_cfg.xml \
